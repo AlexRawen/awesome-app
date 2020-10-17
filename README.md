@@ -1,1 +1,1 @@
-# awesome-app
+# awesome-sfdc-project
