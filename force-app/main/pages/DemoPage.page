@@ -1,0 +1,7 @@
+<apex:page>
+    <div style="text-align: center;">
+        <b>This is demo page!</b>
+        <br/>
+        © 2020 Aquiva Labs, LLC. All Rights Reserved
+    </div>
+</apex:page>
